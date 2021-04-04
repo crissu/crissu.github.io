@@ -87,6 +87,10 @@ featured-condition-size: 1             # 相同标签数量大于这个数，才
 # Friends
 friends: [
     {
+        title: "我的码云",
+        href: "https://gitee.com/jiajiesu"
+    },
+    {
         title: "Yuner",
         href: "http://www.yner.top/"
     }  
